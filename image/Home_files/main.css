@@ -1,0 +1,158 @@
+.nav1 {
+  background-color: #fdf8e5;
+  margin: 0px;
+}
+
+.index {
+  background-color: #fdf8e5;
+}
+
+.index .what {
+  color: yellowgreen;
+  font-size: 40px;
+  font-style: italic;
+  font-family: 'Pattaya', sans-serif;
+}
+
+.background {
+  width: 100%;
+  height: 500px;
+}
+
+.search {
+  margin-left: 500px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.carousel1 {
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+.card2 {
+  display: none;
+}
+
+.card4 {
+  display: none;
+}
+
+.card6 {
+  display: none;
+}
+
+.walkons {
+  width: 50px;
+  margin-top: -150px;
+  margin-left: 90px;
+}
+
+.text-sm-start {
+  color: blue;
+  margin-top: 20px;
+}
+
+.image1 {
+  height: 150px;
+  margin: 20px;
+}
+
+.mardi {
+  font-family: 'Pattaya', sans-serif;
+  color: blue;
+}
+
+.aboutmardi {
+  color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+}
+
+.history {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+.LaToya {
+  font-family: 'Pattaya', sans-serif;
+  color: blueviolet;
+}
+
+.mardicolor {
+  background-color: #9453A6;
+}
+
+.historycolor {
+  background-color: #8cbf37;
+  margin-top: -20px;
+}
+
+.latoyaimgcolore {
+  background-color: #f2cc0f;
+  margin-top: -18px;
+  margin-bottom: -13px;
+}
+
+.vod {
+  border-radius: 300px;
+}
+
+.vod1 {
+  border-radius: 70px;
+  height: 300px;
+  width: 400px;
+}
+
+.vod2 {
+  border-radius: 70px;
+  height: 300px;
+  width: 400px;
+}
+
+.vod3 {
+  border-radius: 70px;
+  height: 300px;
+  width: 400px;
+}
+
+.text {
+  color: blueviolet;
+}
+
+.vedio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.faq {
+  background-color: #fdf8e5;
+}
+
+.card-header {
+  font-size: 50px;
+  background-color: #fdf8e5;
+}
+
+.card {
+  color: black;
+  background-color: #fdf8e5;
+  font-family: 'Roboto', sans-serif;
+}
+
+.colorline {
+  text-align: left;
+  font-size: 30px;
+  color: black;
+  font-family: 'Pattaya', sans-serif;
+}
+
+.collapse {
+  border-color: blueviolet !important;
+}
+/*# sourceMappingURL=main.css.map */

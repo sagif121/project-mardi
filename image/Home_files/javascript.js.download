@@ -1,0 +1,23 @@
+$('.card1').on('click', function() {
+    $('.card2') .slideToggle(5000)
+  });
+  
+  $('.card3').on('click', function() {
+    $('.card4').slideToggle(5000)
+  });
+
+  $('.card5').on('click', function() {
+    $('.card6').slideToggle(5000);
+  });
+
+  // $(document).ready(function() {
+  //   $(".fancybox").fancybox({
+  //     openEffect	: 'none',
+  //     closeEffect	: 'noe'
+  //   });
+  // });
+
+//   $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+//     event.preventDefault();
+//     $(this).ekkoLightbox();
+// });
